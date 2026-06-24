@@ -1,7 +1,6 @@
 # Configurador de Horarios de Atención 🐍
 
 [![Python](https://img.shields.io/badge/Python-100%25-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![Deploy](https://github.com/configurowebmax/python-configurador-horarios/actions/workflows/pages.yml/badge.svg)](https://github.com/configurowebmax/python-configurador-horarios/actions)
 [![Live Demo](https://img.shields.io/badge/Demo-GitHub%20Pages-success?logo=github&logoColor=white)](https://configurowebmax.github.io/python-configurador-horarios/)
 [![License](https://img.shields.io/badge/Licencia-MIT-blue)](LICENSE)
 
